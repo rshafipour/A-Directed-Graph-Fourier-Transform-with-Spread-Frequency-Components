@@ -1,4 +1,5 @@
 The function DGFT.m implements Algorithm 2 in the following paper:
+
 @ARTICLE{RAGEDGFT, 
 		author={R. {Shafipour} and A. {Khodabakhsh} and G. {Mateos} and E. {Nikolova}}, 
 		journal={IEEE Trans. Signal Process.}, 
